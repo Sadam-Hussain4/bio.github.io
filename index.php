@@ -47,7 +47,7 @@ border:2px solid khaki;}
 <body>
 <h1 style="text-align:center;color:purple;">Library Management System</h1>
 <div id="s1">
-<img src="image\sadam.jpg" alt="image here">
+<img src="sadam.jpg" alt="image here">
 <p><b> THIS SITE HAS BEEN CREATED BY <mark> SADAM HUSSAIN </mark> TO MEET THE REQUIREMENTS OF LIBRARY MANAGEMENT SYSTEM</p>
 <table>
 <tr>
